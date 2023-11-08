@@ -8,7 +8,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
 
-![Ranccat's GitHub](https://github-readme-stats.vercel.app/api?username=Ranccat&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=true&count_private=true)
+![Ranccat's GitHub](https://github-readme-stats.vercel.app/api?username=Ranccat&include_all_commits=true&show_icons=true&theme=cobalt)
 
 # SKILLS
 ### Languages
