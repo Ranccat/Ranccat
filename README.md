@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20To%20Ranccat's%20Home&animation=twinkling&fontSize=45&fontAlignY=40&height200)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=300&section=header&text=Welcome%20To%20Ranccat's%20Home&fontSize=45&fontAlignY=40&height200)
 
 
 # ABOUT ME 😎
