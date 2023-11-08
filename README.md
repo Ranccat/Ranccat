@@ -5,4 +5,4 @@
 - 📫 How to reach me: wogurjo98@gmail.com
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Ranccat)](https://solved.ac/wogurjo98)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
