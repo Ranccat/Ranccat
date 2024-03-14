@@ -3,12 +3,11 @@
 
 # ABOUT ME 😎
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRanccat&count_bg=%23747474&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Theoretical Foundation For A Creation
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
 
-![Ranccat's GitHub](https://github-readme-stats.vercel.app/api?username=Ranccat&include_all_commits=true&show_icons=true&theme=cobalt&hide_border=true&allow_private=true)
 
 # SKILLS 📚
 ### Languages
@@ -22,16 +21,7 @@
 ![unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-### Platforms
-![windows10](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows10&logoColor=white)
-![dotnet](https://img.shields.io/badge/dotNET-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
-![macos](https://img.shields.io/badge/MAC-000000.svg?&style=for-the-badge&logo=macos&logoColor=white)
-
-### IDE Preferences
-![visualstudio](https://img.shields.io/badge/VS-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
-![jetbrains](https://img.shields.io/badge/jetbrains-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white)
-
-### Studying
+### Learning
 ![unrealengine](https://img.shields.io/badge/UE5-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)
 ![blender](https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![blazor](https://img.shields.io/badge/blazor-512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white)
