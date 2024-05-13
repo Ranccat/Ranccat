@@ -3,7 +3,8 @@
 
 # 😎 ABOUT ME
 
-### Theoretical Foundation for Creation
+### Junior Game Programmer (Client & Server)
+### "Theoretical Foundation for Creation"
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
 
@@ -25,6 +26,7 @@
 ![blender](https://img.shields.io/badge/Blender-E87D0D.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![blazor](https://img.shields.io/badge/blazor-512BD4.svg?&style=for-the-badge&logo=blazor&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-F07A5B.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
 
 # 📞 CONTACTS
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wogurjo98@gmail.com)](mailto:wogurjo98@gmail.com)
