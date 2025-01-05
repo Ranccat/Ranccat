@@ -42,3 +42,4 @@ Hi, I'm a game full stack developer, also interested in web, app, and programmin
 # 📞 CONTACTS
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wogurjo98@gmail.com)](mailto:wogurjo98@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jaejho511@naver.com)](mailto:jaejho511@naver.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.com/users/madpororo)](https://discord.com/users/madpororo)
