@@ -3,9 +3,9 @@
 
 # 😎 ABOUT ME
 
-### Junior Game Programmer (Client & Server)
+### Junior Game & Web Programmer
 
-Hi, I'm a game full stack developer, also interested in web, app, and programming langauges especially C++.
+Hi, I'm a full stack developer, also interested in computer science and programming langauges especially C++.
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
 
