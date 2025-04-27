@@ -14,6 +14,8 @@ Hi, I'm a full stack developer, also interested in computer science and programm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranccat&hide=html,css&layout=donut&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 # 💻 SKILLS
 
 ### 🔠 Languages
@@ -37,7 +39,20 @@ Hi, I'm a full stack developer, also interested in computer science and programm
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
+<br>
+
+# 📂 Projects
+
+| Name | Description | Tech Stack | Link |
+| :-- | :-- | :-- | :-- |
+| **Velog** | 전공서적 공부 기록 | Markdown | [Visit](https://velog.io/@ranccat/series) |
+| **Kooblat** | 탑다운 뷰 미로 탈출 어드벤처 게임 | C#, Unity | [GitHub](https://github.com/Ranccat/kooblat) |
+| **Peach Game** | 사과게임 오마주 게임 | C#, Unity | [GitHub](https://github.com/your-repo) |
+
+<br>
+
 # 📞 CONTACTS
+
 ![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wogurjo98@gmail.com)
 ![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:jaejho511@naver.com)
 ![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/madpororo)
