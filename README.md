@@ -1,11 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Welcome%20To%20Ranccat's%20Home&fontSize=50&fontAlignY=80)
-
+![header](https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Theoretical%20Foundation%20For%20Creation&fontSize=40&fontAlignY=60)
 
 # 😎 ABOUT ME
 
 ### Junior Game & Web Programmer
 
 Hi, I'm a full stack developer, also interested in computer science and programming langauges especially C++.
+
+안녕하세요, 게임과 웹 어플리케이션을 개발하는 주니어 개발자 조재혁 입니다.
+
+컴퓨터 과학을 정말 좋아하고, 메모리 친화적인 프로그래밍 언어에 관심이 많습니다.
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
 
@@ -29,7 +32,7 @@ Hi, I'm a full stack developer, also interested in computer science and programm
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 📚 Learning
+### 📚 Currently Learning
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
