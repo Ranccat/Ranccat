@@ -4,11 +4,11 @@
 
 ### Junior Game & Web Programmer
 
-Hi, I'm a full stack developer, also interested in computer science and programming langauges especially C++.
+Hi, I'm a full stack developer who loves computer science and programming languages, especially C++.
 
 안녕하세요, 게임과 웹 어플리케이션을 개발하는 주니어 개발자 조재혁 입니다.
 
-컴퓨터 과학을 정말 좋아하고, 메모리 친화적인 프로그래밍 언어에 관심이 많습니다.
+컴퓨터 과학을 사랑하며, 메모리 효율이 뛰어난 프로그래밍 언어에 깊은 관심을 가지고 있습니다.
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogurjo98)](https://solved.ac/wogurjo98)
 
