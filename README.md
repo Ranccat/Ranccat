@@ -48,6 +48,8 @@ Hi, I'm a full stack developer who loves computer science and programming langua
 | **Velog** | 전공서적 공부 기록 | Markdown | [Visit](https://velog.io/@ranccat/series) |
 | **Kooblat** | 탑다운 뷰 미로 탈출 어드벤처 게임 | C#, Unity | [GitHub](https://github.com/Ranccat/kooblat) |
 | **Peach Game** | 사과게임 오마주 게임 | C#, Unity | [GitHub](https://github.com/Ranccat/peach-game) |
+| **Postnaut** | 인터넷에 공유되는 혼잣말 웹 서비스 | Typescript, React | [WIP]() |
+| **UNDEFINED** | (미정) | Java, Spring, PSQL, Mongo, Redis | [WIP]() |
 
 <br>
 
